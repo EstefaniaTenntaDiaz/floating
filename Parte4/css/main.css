@@ -1,0 +1,20 @@
+.bloque{
+	height: 115px;
+	width: 160px;
+	float:left;	
+}
+.amarillo{
+	background: #ffff00;
+}
+.azul{
+	background: #3a81ba
+}
+.rosa{
+	background: #ed2251;
+}
+.contenedor{
+	border: 1px solid gray;
+	width: 50%;
+	overflow: auto;
+	zoom: 1;
+}
